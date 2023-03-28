@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "creating a READ-ME file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "github+https://github.com/olynnc888/chal7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "add url for issues from repo"
+  },
+  "homepage": "add readme url for repo",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
