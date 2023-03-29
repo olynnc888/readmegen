@@ -1,30 +1,42 @@
-# Read Me Generator
 
-## Description
-This is a readme generator that generates a read-me after you input some information. To create it, enter node index.js into the terminal, fill out the questions, and watch it go!
+# Project Title
+  test title
+  ![License](https://img.shields.io/badge/license-apache-green.svg)
 
-## Acceptance Criteria
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+## Project Description
+  this is a test
 
-## How Criteria was Met
-Completed all the utils, created a test page to make sure it was working, and then checked via node.
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Contact](#contact)
+  
+## Installation
+  This is a test of the node read.me creator
 
-## Video of working
+## Usage
+  You can use this to create a Read.me
 
+## License
+  
+## License
 
-## github Repo
-https://github.com/olynnc888/readmegen
+This project is licensed under the Apache license.
+
+  https://opensource.org/licenses/apache
+
+## Contributions
+  you can contribute.....as a treat
+
+## Tests
+  run tests via the test.js file
+
+## Contact
+  * Github: olynnc888
+  * Email: olynnc888@gmail.com
+  
+  
